@@ -22,7 +22,7 @@ You can start by cloning this repository and using [react-native-rename](https:/
 
 Keep in mind that this library can cause trouble if you are renaming a project that uses `Pods` on the iOS side.
 
-After that you should proceed as with any javascript project:
+After that you should proceed as with any javascript project: OK
 
 - Go to your project's root folder and run `npm install --legacy-peer-deps`.
 - If you are using Xcode 12.5 or higher got to /ios and execute `pod install --repo-update`
